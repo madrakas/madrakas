@@ -19,7 +19,7 @@ I’m @madrakas. Don't be shy - look around. If you have any questions or just w
 * In 2023 I have decided to quit my jobs and went to study in [BIT full stack developer program](https://bit.lt/studijos/full-stack-kursai/). [See what I have learned there](https://github.com/madrakas/madrakas/blob/main/BIT.md).
 * In 2024 I have officially finished my studies and am looking for a new party to join for learning and creating some magic together.
 
-## My interests
+## 👀 My interests
 
 - Web applications
 - Process management 
