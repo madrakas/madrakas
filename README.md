@@ -3,25 +3,27 @@
 ## 👋 Hello!
 I’m @madrakas. Don't be shy. Look around. If you have any questions or just want to have a little chat, feel free to contact me.
 
-## My stack
+## 💻 My stack
 - PHP
 - Laravel
 - React
 - MS Access
 
-## 🖋️ My Background
+## 🖼️ My Background
 
-* I have a dagree in physics teaching.
+* I have a degree in physics teaching.
 * I have worked in production management for a bit.
-* In my previous job I have maintained all IT infrastructure but often ended up programming some tools to ease my colleagues routines.
+* In my previous job I have maintained all IT infrastructure but often ended up programming some tools to ease my colleagues’ routines.
 * I have created a few backbone process management applications for my previous company. Did it on MS Access, PHP and MySQL.
+* In 2023 I have decided to quit my jobs and went to study in BIT full stack developer program.
+* In 2024 I have officially finished my studies and am looking for a new party to join for learning and creating some magic together.
 
-## 💻 My interests
+## My interests
 
-Computers and programming were my passion since childhood (Turbo pascal was my favorite game). It's a magic world and I'm dreaming to become a wizard.
-My focus for now is development of web applications. I did some of it in my previous job as a side quests mainly, but decided to go All in,/
-have quit my old job, took intensive Full stack developer training courses. For now, I'm looking for a new party to join, learn more and create some magic together.
-
+- Web applications
+- Process management 
+- Linux
+- Lifehacks
 
 ## 🚴 My other interests
 
