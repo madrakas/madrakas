@@ -1,7 +1,7 @@
 # Welcome to my Github
 
 ## 👋 Hello!
-I’m @madrakas. Don't be shy. Look around. If you have any questions or just want to have a little chat, feel free to contact me.
+I’m @madrakas. Don't be shy - look around. If you have any questions or just want to have a little chat, feel free to contact me.
 
 ## 💻 My stack
 - PHP
@@ -34,9 +34,10 @@ I’m @madrakas. Don't be shy. Look around. If you have any questions or just wa
 
 ## 🌱 I’m currently learning 
 
-- Laravel,
-- React,
+- Laravel
+- React
 - design patterns
+- docker
 
 ## 💞️ Want to make something together?
 
