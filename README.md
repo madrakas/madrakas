@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-## 👋 Hi,
+## 👋 Hello!
 I’m @madrakas. Don't be shy. Look around. If you have any questions or just want to have a little chat, feel free to contact me.
 
 ## My stack
