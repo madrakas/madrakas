@@ -11,7 +11,7 @@ I’m @madrakas. Don't be shy. Look around. If you have any questions or just wa
 
 ## 🖋️ My Background
 
-* I have physics teachers degree.
+* I have a dagree in physics teaching.
 * I have worked in production management for a bit.
 * In my previous job I have maintained all IT infrastructure but often ended up programming some tools to ease my colleagues routines.
 * I have created a few backbone process management applications for my previous company. Did it on MS Access, PHP and MySQL.
