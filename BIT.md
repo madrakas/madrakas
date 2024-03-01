@@ -6,7 +6,7 @@ _My journey to become a full stack developer_
 
 ## About
 
-This is list of repositories Used in a course I have finished at [BIT](https://bit.lt/studijos/full-stack-kursai).<br>
+This is list of my repositories used in a course I have finished at [BIT](https://bit.lt/studijos/full-stack-kursai).<br>
 PHP projects (10 - 14) currently are not hosted anywhere, but I'm working on it.<br>
 Front end projects are hosted on Github pages.<br>
 Thanks for exploring. As always - Your feedback is welcome.
