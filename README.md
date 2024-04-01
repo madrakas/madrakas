@@ -60,4 +60,5 @@ I'm open to all kind of ideas as long as it involves programming. Preferably PHP
 madrakas/madrakas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![wakatime](https://wakatime.com/badge/user/188fbb29-67ff-406f-80dd-1502bdc9b0ab.svg)](https://wakatime.com/@188fbb29-67ff-406f-80dd-1502bdc9b0ab)
+---
+[![wakatime](https://wakatime.com/badge/user/188fbb29-67ff-406f-80dd-1502bdc9b0ab.svg)](https://wakatime.com/@188fbb29-67ff-406f-80dd-1502bdc9b0ab) ![codewars badge](https://www.codewars.com/users/madrakas/badges/micro)
