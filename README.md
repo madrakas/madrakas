@@ -42,7 +42,7 @@ I’m @madrakas. Don't be shy - look around. If you have any questions or just w
 
 ## ⌨️ I'm currently workin on
 
-[akmeninis.lt](https://github.com/madrakas/akmeninis.lt)
+[akmeninis.lt](https://github.com/madrakas/akmeninis.lt) - Laravel single page, res[omsive design portfolio website with React.JS administration panel.
 
 ## 💞️ Want to make something together?
 
