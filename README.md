@@ -61,4 +61,4 @@ madrakas/madrakas is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ---
-[![wakatime](https://wakatime.com/badge/user/188fbb29-67ff-406f-80dd-1502bdc9b0ab.svg)](https://wakatime.com/@188fbb29-67ff-406f-80dd-1502bdc9b0ab) ![codewars badge](https://www.codewars.com/users/madrakas/badges/micro)
+[![wakatime](https://wakatime.com/badge/user/188fbb29-67ff-406f-80dd-1502bdc9b0ab.svg)](https://wakatime.com/@188fbb29-67ff-406f-80dd-1502bdc9b0ab) ![codewars badge](https://www.codewars.com/users/madrakas/badges/micro) [![madrakas profile views](https://u8views.com/api/v1/github/profiles/145318984/views/day-week-month-total-count.svg)](https://u8views.com/github/madrakas)
